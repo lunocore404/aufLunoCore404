@@ -46,7 +46,7 @@ I build things that detects yellow corn diseases for farmers and agriculture stu
 | Backend | Node.js · Express · Flask |
 | Database | MySQL · MongoDB |
 | DevOps | Git · GitHub · Linux (Fedora and Arch)|
-| Learning | [what you're currently picking up] |
+| Learning | The use of different models for machine learning/deep learning such as ResNet50 and MobileNetV2 |
 
 ---
 
