@@ -25,13 +25,13 @@
 <!-- ABOUT — Keep it concise. Recruiters skim.           -->
 ## About
 
-Computer Science student at **[University]**, Year [1/2/3/4].
-Focused on [your specialization, e.g. full-stack development / machine learning].
-I build things that [what your work does / who it helps].
+Computer Science student at **Angeles University Foundation**, Year 2026.
+Focused on Data Science, Machine Learning, and Deep Learning.
+I build things that detects yellow corn diseases for farmers and agriculture students.
 
 - 📍 Based in [Angeles city]
 - 🏫 Expected graduation: [2027]
-- 💬 Ask me about: [topic], [topic], [topic]
+- 💬 Ask me about: Hobbies, Work, Likes and Dislikes
 
 ---
 
@@ -41,7 +41,7 @@ I build things that [what your work does / who it helps].
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | Python · Java · JavaScript · C |
+| Languages | Python · Java · C++ · NASM |
 | Frontend | HTML · CSS · React |
 | Backend | Node.js · Express · Flask |
 | Database | MySQL · MongoDB |
